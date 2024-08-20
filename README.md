@@ -26,3 +26,5 @@ We're happy you joined us, welcome to the team! Giulia is your manager and helps
 The data set is generated within the company database itself & it is available here. 
 
 Downloadable format is provided here.[ Click Here to Download ](https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/01%20Call-Center-Dataset.xlsx)
+
+Dataset consists of 5000 observations. 
