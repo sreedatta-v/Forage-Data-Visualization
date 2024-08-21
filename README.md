@@ -14,7 +14,7 @@ The pre-requisite for this internship are :
 5. [Share](https://github.com/sreedatta-v/pwc_forage_data_visualization/blob/main/README.md)
 6. [Act](https://github.com/sreedatta-v/pwc_forage_data_visualization/blob/main/README.md)
 
-## Phase 1 / Ask
+## Task1 1
 ### Company Background information 
 
 The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
@@ -33,7 +33,13 @@ Derived Metrics :
 4. Average speed of answer
 5. Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-## Phase 2 / Prepare 
+## Report 
+
+Data visualization for above task are provided in this link. 
+
+[Downlaod Here](https://drive.google.com/file/d/1haKSv_yM0WLWkFzK1H36pKxfFqp0NiZM/view?usp=drive_link). 
+
+## Task 2
 
 The data set is generated within the company database itself & it is available here. 
 
