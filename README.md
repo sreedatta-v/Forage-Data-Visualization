@@ -72,13 +72,15 @@ What they want after is an accurate overview of long-term trends in <b><i>custom
 ### Key performance indicators:
 Possible KPIs include (to get you started, but not limited to):
 
-Overall customer satisfaction  
-Overall calls answered/abandoned  
-Calls by time  
-Average speed of answer  
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered  
+• Overall customer satisfaction  
+• Overall calls answered/abandoned  
+• Calls by time  
+• Average speed of answer  
+• Agent’s performance quadrant -> average handle time (talk duration) vs calls answered  
+
+## Data Visualization of KPI ( Key performance Indicator ) Task2: 
+
+![Data Visualization of Task2](https://github.com/sreedatta-v/pwc_forage_data_visualization/blob/main/KPI%20Dashbaord_Task2.png)
 
 <hr> 
-
-![Data Visualization of Task2](https://drive.google.com/file/d/1iQQOVdZFhhxDT5VKt3yZmV_UDB81apPR/view?usp=drive_link)
 
