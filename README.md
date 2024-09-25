@@ -15,57 +15,33 @@ The pre-requisite for this internship are :
 6. [Act](https://github.com/sreedatta-v/pwc_forage_data_visualization/blob/main/README.md)
 
 ## Task 1
-### Company Background information 
-
-The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
-
-At PwC, we are working with other organisations across the world, building on our work with clients and on upskilling our 276,000 people. Still, more must be done if we are to ensure everyone has the opportunity to learn, work and participate in the digital world. This is at the heart of our purpose.
-
-We are enabling employees who are motivated to further accelerate their skills to do so by offering them a “career pivot” to become what we call “Digital Accelerators”. Accelerators rapidly deepen their skills in digital specialties, such as data, automation, AI, and digital storytelling by learning a variety of self-service tools and coding languages and applying these skills across our business.
-
-We're happy you joined us, welcome to the team! Giulia is your manager and helps you through your upskilling journey in PowerBI - your step to become a true data jedi and Digital Accelerator. But wait no more, word spreads fast and an important client reached out to you to help him visualising their data. 
-
-Derived Metrics : 
-
-1. Overall customer satisfaction
-2. Overall calls answered/abandoned
-3. Calls by time
-4. Average speed of answer
-5. Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
-
-## Report 
-
-Data visualization for above task are provided in this link. 
-
-[Downlaod Here](https://drive.google.com/file/d/1haKSv_yM0WLWkFzK1H36pKxfFqp0NiZM/view?usp=drive_link). 
-
-## Task 2
 
 The data set is generated within the company database itself & it is available here. 
 
-Downloadable format is provided here.[ Click Here to Download ](https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/01%20Call-Center-Dataset.xlsx)
+The downloadable format is provided here. [ Click Here to Download ](https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/01%20Call-Center-Dataset.xlsx)
 
-Dataset consists of 5000 observations. 
+The dataset consists of <b>5000 observations.</b>
 
-### What we'll do
-1. Create a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided.  
+### What we'll do  
 
-2. Utilize the resources provided, including podcasts and articles, to enhance your understanding of data visualization and upskilling.  
+1. Create a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided.   
 
-3. Respond to the client's request by providing a well-designed Power BI dashboard reflecting the requested KPIs.
+2. Utilize the resources provided, including podcasts and articles, to enhance your understanding of data visualization and upskilling. 
+
+3. Respond to the client's request by providing a well-designed Power BI dashboard reflecting the requested KPIs.  
 
 ## Background Information: 
-The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
+The digital revolution and our fast-changing world require a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence, and creativity to fully participate in the digital future workplace — and it needs to start now.
 
-At PwC, we are working with other organisations across the world, building on our work with clients and on upskilling our 276,000 people. Still, more must be done if we are to ensure everyone has the opportunity to learn, work and participate in the digital world. This is at the heart of our purpose.
+At PwC, we are working with other organizations across the world, building on our work with clients and on upskilling our 276,000 people. Still, more must be done if we are to ensure everyone has the opportunity to learn, work, and participate in the digital world. This is at the heart of our purpose.
 
 We are enabling employees who are motivated to further accelerate their skills to do so by offering them a “career pivot” to become what we call “Digital Accelerators”. Accelerators rapidly deepen their skills in digital specialties, such as data, automation, AI, and digital storytelling by learning a variety of self-service tools and coding languages and applying these skills across our business.
 
-We're happy you joined us, welcome to the team! Giulia is your manager and helps you through your upskilling journey in PowerBI - your step to become a true data jedi and Digital Accelerator. But wait no more, word spreads fast and an important client reached out to you to help him visualising their data. 
+We're happy you joined us, welcome to the team! Giulia is your manager and helps you through your upskilling journey in PowerBI - your step to becoming a true data Jedi and Digital Accelerator. But wait no more, word spreads fast and an important client reached out to you to help him visualize their data. 
 
 ### About Company:
 
-Managers were eager to determine what the customer wants.<i><b> Total number of calls answered and abandoned, speed of answer, length of calls, overall customer satisfaction, etc.  </b></i>
+Managers were eager to determine what the customer wanted.<i><b> Total number of calls answered and abandoned, speed of answer, length of calls, overall customer satisfaction, etc.  </b></i>
 
 What they want after is an accurate overview of long-term trends in <b><i>customer and agent behaviour.</b></i>
 
@@ -78,13 +54,13 @@ Possible KPIs include (to get you started, but not limited to):
 • Average speed of answer  
 • Agent’s performance quadrant -> average handle time (talk duration) vs calls answered  
 
-## Data Visualization of KPI ( Key performance Indicator ) Task2: 
+## Data Visualization of KPI ( Key Performance Indicator ) Task2: 
 
 ![Data Visualization of Task2](https://github.com/sreedatta-v/pwc_forage_data_visualization/blob/main/KPI%20Dashbaord_Task2.png)
 
 <hr> 
 
-## Task3 
+## Task2 
 
 ### Task to do:  
 
