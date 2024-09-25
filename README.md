@@ -118,6 +118,6 @@ Write what you think some root causes of their slow progress might be
 
 ![Data Visualization of Task1](https://github.com/sreedatta-v/Forage-Data-Visualization/blob/main/KPI%20Dashboard%203.1.png)
 
-![Data Visualization of Task1](https://github.com/sreedatta-v/Forage-Data-Visualization/blob/main/KPI%20Dashboard%202.1.png)
+![Data Visualization of Task1](https://github.com/sreedatta-v/Forage-Data-Visualization/blob/main/KPI%20Dashboard%203.2.png)
 
-![Data Visualization of Task1](https://github.com/sreedatta-v/Forage-Data-Visualization/blob/main/KPI%20Dashboard%202.1.png)
+![Data Visualization of Task1](https://github.com/sreedatta-v/Forage-Data-Visualization/blob/main/KPI%20Dashboard%202.3.png)
