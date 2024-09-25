@@ -14,7 +14,7 @@ The pre-requisite for this internship are :
 5. [Share](https://github.com/sreedatta-v/pwc_forage_data_visualization/blob/main/README.md)
 6. [Act](https://github.com/sreedatta-v/pwc_forage_data_visualization/blob/main/README.md)
 
-## Task1 1
+## Task 1
 ### Company Background information 
 
 The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
