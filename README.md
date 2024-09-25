@@ -87,6 +87,7 @@ The Retentions Manager has provided some information in the resources.
 ## Task 3
 
 1. Create visualizations to represent HR data, particularly focusing on gender-related KPIs.  
+
 2. Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.  
 
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
