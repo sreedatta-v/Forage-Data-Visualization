@@ -100,21 +100,21 @@ Consider the importance of strategy, awareness and education, analytics and insp
 
 Here is a hint: Calculating the following measures could help to define proper KPIs:
 
-#of men  
-#of women  
-#of leavers  
-%employees promoted (FY21)  
-%of women promoted  
-%of hires men  
-%of hires women  
-%turnover  
-Average performance rating: men  
-Average Performance rating: women 
+<code>#of men</code>  
+<code>#of women</code>   
+<code>#of leavers</code>   
+<code>%employees promoted (FY21)</code>   
+<code>%of women promoted</code>   
+<code>%of hires men</code>   
+<code>%of hires women</code>   
+<code>%turnover</code>   
+<code>Average performance rating: men</code>   
+<code>Average Performance rating: women</code>  
 
 ### Your task is to do the following:
 
-Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
-Write what you think some root causes of their slow progress might be
+1. Create visualizations to represent HR data, particularly focusing on gender-related KPIs.
+2. Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
 
 ![Data Visualization of Task1](https://github.com/sreedatta-v/Forage-Data-Visualization/blob/main/KPI%20Dashboard%203.1.png)
 
