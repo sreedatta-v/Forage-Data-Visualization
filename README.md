@@ -43,7 +43,7 @@ We're happy you joined us, welcome to the team! Giulia is your manager and helps
 
 Managers were eager to determine what the customer wanted.<i><b> Total number of calls answered and abandoned, speed of answer, length of calls, overall customer satisfaction, etc.  </b></i>
 
-What they want after is an accurate overview of long-term trends in <b><i>customer and agent behaviour.</b></i>
+What they want after is an accurate overview of long-term trends in <b><i>customer and agent behavior.</b></i>
 
 ### Key performance indicators:
 Possible KPIs include (to get you started, but not limited to):
@@ -54,33 +54,37 @@ Possible KPIs include (to get you started, but not limited to):
 • Average speed of answer  
 • Agent’s performance quadrant -> average handle time (talk duration) vs calls answered  
 
-## Data Visualization of KPI ( Key Performance Indicator ) Task2: 
+## Data Visualization of KPI ( Key Performance Indicator ) Task1 : 
 
-![Data Visualization of Task2](https://github.com/sreedatta-v/pwc_forage_data_visualization/blob/main/KPI%20Dashbaord_Task2.png)
-
-<hr> 
+![Data Visualization of Task1](https://github.com/sreedatta-v/Forage-Data-Visualization/blob/main/KPI%20Dashboard.png)
 
 ## Task2 
 
 ### Task to do:  
 
-• Create a dashboard using the defined KPIs to reflect customer demographics and insights.  
-• Write a concise email to the engagement partner explaining your findings and providing suggestions for necessary changes based on the dashboard you've created.
+1. Create a dashboard using the defined KPIs to reflect customer demographics and insights.  
 
-### Background information 
-A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
+2. Write a concise email to the engagement partner explaining your findings and providing suggestions for necessary changes based on the dashboard you've created.  
 
-In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:  
+### Background information  
+
+A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.  
+
+In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points: 
 
 • Customers in the telecom industry are hard-earned: we don’t want to lose them.  
 • The retention department is here to get customers back in case of termination.  
 • Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk.   
-• We  have done customer analysis with Excel: it has always ended in a dead-end.   
-• We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management.   
+• We  have done customer analysis with Excel: but it has always ended in a dead-end.   
+• We would like to know more about our customers: visualized clearly so that it’s self-explanatory for our management.   
 
 The Retentions Manager has provided some information in the resources.   
 
-## Task 4
+![Data Visualization of Task1](https://github.com/sreedatta-v/Forage-Data-Visualization/blob/main/KPI%20Dashboard.png)
+
+![Data Visualization of Task1](https://github.com/sreedatta-v/Forage-Data-Visualization/blob/main/KPI%20Dashboard.png)
+
+## Task 3
 
 • Create visualizations to represent HR data, particularly focusing on gender-related KPIs.  
 • Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.  
@@ -91,7 +95,7 @@ At PwC Switzerland we are often approached by clients seeking support with diver
 
 Why is this so?
 
-Think about the importance of strategy, awareness and education, analytics and inspiration. 
+Consider the importance of strategy, awareness and education, analytics and inspiration. 
 
 Here is a hint: Calculating the following measures could help to define proper KPIs:
 
