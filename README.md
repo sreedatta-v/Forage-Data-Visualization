@@ -80,7 +80,7 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 
 The Retentions Manager has provided some information in the resources.   
 
-![Data Visualization of Task1](https://github.com/sreedatta-v/Forage-Data-Visualization/blob/main/KPI%20Dashboard.png)
+![Data Visualization of Task1](https://github.com/sreedatta-v/Forage-Data-Visualization/blob/main/KPI%20Dashboard%202.1.png)
 
 ![Data Visualization of Task1](https://github.com/sreedatta-v/Forage-Data-Visualization/blob/main/KPI%20Dashboard.png)
 
